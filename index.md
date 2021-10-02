@@ -1,4 +1,4 @@
-## Progress Journal of Cem Eldemir
+## Progress Journal
 
 I will be sharing my studies via this page.
 
