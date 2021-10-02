@@ -2,7 +2,7 @@
 
 I will be sharing my studies via this page.
 
-[Homework](https://github.com/pjournal/mef05-cemeldemir/blob/gh-pages/RMarkdown-Homework.html)
+[Homework](RMarkdown-Homework.html)
 
 ### Markdown
 
