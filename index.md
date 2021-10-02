@@ -2,6 +2,8 @@
 
 I will be sharing my studies via this page.
 
+[Homework](https://github.com/pjournal/mef05-cemeldemir/blob/07701c2048c755b46c31ac1e0dff6d375c410d36/RMarkdown-Homework.html)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
