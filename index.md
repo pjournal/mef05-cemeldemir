@@ -2,7 +2,7 @@
 
 I will be sharing my studies via this page.
 
-[Homework](RMarkdown-Homework.html)
+[Homework](RMarkdown-Homework)
 
 ### Markdown
 
