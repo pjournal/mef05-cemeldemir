@@ -417,7 +417,7 @@ x</code></pre>
 <pre class="r"><code>q &lt;- ggplot(x, aes(x = reorder(MAL_ADI,-ORTALAMA_AZAMI_UCRET), y=ORTALAMA_AZAMI_UCRET)) +
   geom_segment(aes(x = reorder(MAL_ADI,-ORTALAMA_AZAMI_UCRET), xend= reorder(MAL_ADI,-ORTALAMA_AZAMI_UCRET), y=0, yend=ORTALAMA_AZAMI_UCRET), color=&quot;red&quot;) +
   geom_point(size=3, color=&quot;#69b3a2&quot;) +
-  ggtitle(&quot;The Most Expensive 10 Seafood in 1st Quarter of the Year&quot;)+
+  ggtitle(&quot;The Most Expensive 10 Seafood in the 1st Quarter of the Year&quot;)+
   coord_flip() +
   theme(
     panel.grid.minor.y = element_blank(),
